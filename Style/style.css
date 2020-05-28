@@ -1,3 +1,10 @@
+.container {
+    height: 500px;
+    display: flex;
+    align-items: center;
+    margin-bottom: -200px;
+}
+
 IMG.logo {
     display: block;
     margin-left: auto;
