@@ -1,6 +1,6 @@
 # Assignment
 
-## Easy Version: Build the Google.com homepage
+## Build the Google.com homepage
 (the simple one with just a search box).
 
 Inside your project folder, create your index.html file
@@ -26,8 +26,5 @@ Here’s a link to the Google Logo just in case they temporarily replace it with
 - Push your project to Github using the instructions above!
 
 
-## Difficult Version (optional): Build the Google.com search results page
+## Learning Takeaways:
 
-You should be able to reuse much of your code from before if you started with that project. Again, don’t worry about links to nowhere and forms that won’t submit and hard coding the search results (which you’ll have to do of course), just focus on placement and order of items on the page.
-
-Note: All the classes and id’s and names of elements that you inspect on Google’s home page are nonsensical strings (like <div class='srg'>). This is because the code was Minified (see the Wikipedia entry here), which removes or shortens unnecessary characters and names to help the page load faster. The HTML (or Javascript or CSS) file will be smaller but the browser can still read it just fine.
