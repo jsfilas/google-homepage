@@ -15,17 +15,28 @@ IMG.logo {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    margin-top: 2em;
+    /* margin-top: 2em; */
     border-radius: 60px;
     width: 27em;
     height: 30px;
-    border: 1px solid rgb(218, 218, 218);
+    border: 0px solid rgb(255, 255, 255);
     padding: 5px 0 5px 15px;
 }
 
-#search-box:hover {
-    box-shadow: 0 0 2px rgb(90, 90, 90);
+.fake-searchbox {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    border-radius: 60px;
+    width: 27em;
+    height: 42px;
+    border: 1px solid rgb(218, 218, 218);
 }
+
+/*#search-box:hover {
+    box-shadow: 0 0 2px rgb(90, 90, 90);
+}*/
 
 #search-box::placeholder {
     color: rgb(151, 151, 151);
@@ -35,3 +46,9 @@ input:focus {
     outline:none;
 }
 
+.mag {
+    float: left;
+    margin-top: 12px;
+    margin-left: 5px;
+    max-width: 32px;
+}
