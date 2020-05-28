@@ -73,7 +73,19 @@ input:focus {
     text-decoration: none;
     border: 8px solid rgb(0,119,255);
     border-radius: 3px;
-    
+    float: right;
+    margin-top: -6px;
 }
 
+.rhead{
+ float: right;
+ padding-right: 20px;
+}
+
+
+header {
+    display: block;
+    margin-top: 25px;
+    height: 40px;
+}
 
