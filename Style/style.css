@@ -20,9 +20,18 @@ IMG.logo {
     width: 27em;
     height: 30px;
     border: 1px solid rgb(218, 218, 218);
+    padding: 5px 0 5px 15px;
 }
 
 #search-box:hover {
     box-shadow: 0 0 2px rgb(90, 90, 90);
-    
 }
+
+#search-box::placeholder {
+    color: rgb(151, 151, 151);
+}
+
+input:focus {
+    outline:none;
+}
+
