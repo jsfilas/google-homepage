@@ -20,7 +20,7 @@ IMG.logo {
     width: 27em;
     height: 30px;
     border: 0px solid rgb(255, 255, 255);
-    padding: 5px 0 5px 15px;
+    padding: 5px 0 5px 0px;
 }
 
 .fake-searchbox {
@@ -51,4 +51,11 @@ input:focus {
     margin-top: 12px;
     margin-left: 5px;
     max-width: 32px;
+}
+
+.ttx {
+    float: right;
+    margin-top: -32px;
+    margin-right: 12px;
+    max-width: 19px;
 }
