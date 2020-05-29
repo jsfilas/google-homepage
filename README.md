@@ -27,4 +27,8 @@ Here’s a link to the Google Logo just in case they temporarily replace it with
 
 
 ## Learning Takeaways:
+- Effectively learned some flexbox tips like centering within a container. 
 
+- Still learning responsive web design. This works for all sizess on a computer monitor but does not translate to mobile yet. 
+
+- Positioning items can sometimes be difficult, but utilizing Developer tools in google chrome was extremely helpful at adjusting things in a sandbox enviroment. 
